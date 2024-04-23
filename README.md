@@ -1,4 +1,4 @@
-# Hacker News by Carolina Viero
+# Hacker News: the backend
 
 This repo is the backend part of a project developed by me, Carolina, for Good Tape. For the frontend, please check [here](https://github.com/carolinaviero/hacker-news-fe).
 
